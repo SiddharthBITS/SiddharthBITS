@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">Former Amazon(AWS) SDE Intern with backend and platform engineering experience. Optimized CI/CD and test frameworks to improve release velocity. Built scalable full-stack applications including a multiplayer 2D platformer with real-time leaderboard. Proficient in backend development, systems design, and cloud deployment.</h3>
+<h3 align="center">Software Engineer with experience building scalable backend microservices at high-growth startups and optimizing core testing infrastructure at Amazon AWS. Proficient in Kotlin, Java, and database schema optimization. Strong foundation in system design and CI/CD pipelines, dedicated to driving architectural improvements and system stability.</h3>
 
 - 📫 How to reach me **sengarsiddharth@yahoo.in**
 
